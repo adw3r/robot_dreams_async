@@ -1,0 +1,5 @@
+asyncpg
+sqlalchemy
+alembic
+#
+faker
